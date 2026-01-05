@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ZyBooks Solver
 // @namespace    https://github.com/zacheri04/zybooks-solver
-// @version      1.0.1
+// @version      1.0.2
 // @description  Because you already know what a for loop is.
 // @author       zacheri04
 // @match        *://learn.zybooks.com/zybook/*/chapter/*/section/*
